@@ -1,0 +1,163 @@
+<resources>
+    <string name="app_name">Status+</string>
+    <string name="title_text">Text</string>
+    <string name="title_images">Images</string>
+    <string name="title_videos">Videos</string>
+    <string name="prod_app_id">ca-app-pub-4250387378426767~9805351802</string>
+    <string name="debug_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="debug_banner_basic">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="banner_basic">ca-app-pub-4250387378426767/9021563800</string>
+    <string name="home_banner">ca-app-pub-4250387378426767/2107916493</string>
+    <string name="debug_interstitial">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="quote_interstitial">ca-app-pub-4250387378426767/1099675904</string>
+    <string name="detail_interstitial">ca-app-pub-4250387378426767/4138333403</string>
+    <string name="factpager_interstitial">ca-app-pub-4250387378426767/3113511400</string>
+    <string name="speech_prompt">Say something&#8230;</string>
+    <string name="speech_not_supported">Sorry! Your device doesn\'t support speech input</string>
+    <string-array name="fonts">
+        <item>fonts/Airacobra Alt.ttf</item>
+        <item>fonts/Airacobra Italic.ttf</item>
+        <item>fonts/Airmole Antique.ttf</item>
+        <item>fonts/Akashi MF.ttf</item>
+        <item>fonts/Ala Carte.ttf</item>
+        <item>fonts/Alcohole.ttf</item>
+        <item>fonts/Alexis Bold.ttf</item>
+        <item>fonts/Alexis Expanded Italic.ttf</item>
+        <item>fonts/Alexis Italic.ttf</item>
+        <item>fonts/Alexis Laser Italic.ttf</item>
+        <item>fonts/alienation Outline.ttf</item>
+        <item>fonts/alienation.ttf</item>
+        <item>fonts/alienwarping.ttf</item>
+        <item>fonts/All Caps.ttf</item>
+        <item>fonts/Almagro Regular.ttf</item>
+        <item>fonts/Alpha Dance.ttf</item>
+        <item>fonts/Alpha Flight Small Caps.ttf</item>
+        <item>fonts/Alpha Flight Solid Small Caps.ttf</item>
+        <item>fonts/Alpha Flight Solid.ttf</item>
+        <item>fonts/Alpha Test JL.ttf</item>
+        <item>fonts/alphabold.ttf</item>
+        <item>fonts/AlphaMack AOE.ttf</item>
+        <item>fonts/Amano.ttf</item>
+        <item>fonts/Amazon.ttf</item>
+        <item>fonts/Amelia BT.ttf</item>
+        <item>fonts/Americana Dreams Bold.ttf</item>
+        <item>fonts/Americana Dreams CondUpright.ttf</item>
+        <item>fonts/Americana Dreams Upright Bold.ttf</item>
+        <item>fonts/Analgesics.ttf</item>
+        <item>fonts/Anastasia Regular.ttf</item>
+        <item>fonts/Android Nation.ttf</item>
+        <item>fonts/Anhedonia.ttf</item>
+        <item>fonts/Antibiotech.ttf</item>
+        <item>fonts/Anticlimax.ttf</item>
+        <item>fonts/antiestablishment.ttf</item>
+        <item>fonts/Kevlr Suit.ttf</item>
+        <item>fonts/Kids.ttf</item>
+        <item>fonts/Kinkie.ttf</item>
+        <item>fonts/KissMeKissMeKissMe.ttf</item>
+        <item>fonts/Kitchen police.ttf</item>
+        <item>fonts/KittKat.ttf</item>
+        <item>fonts/KlingonStilleto.ttf</item>
+        <item>fonts/OpenSans-BoldItalic.ttf</item>
+        <item>fonts/OpenSans-ExtraBold.ttf</item>
+        <item>fonts/OpenSans-ExtraBoldItalic.ttf</item>
+        <item>fonts/OpenSans-Italic.ttf</item>
+        <item>fonts/OpenSans-Light.ttf</item>
+        <item>fonts/OpenSans-LightItalic.ttf</item>
+        <item>fonts/OpenSans-Regular.ttf</item>
+        <item>fonts/OpenSans-Semibold.ttf</item>
+        <item>fonts/OpenSans-SemiboldItalic.ttf</item>
+        <item>fonts/Raleway-BlackItalic.ttf</item>
+        <item>fonts/Raleway-Bold.ttf</item>
+        <item>fonts/Raleway-SemiBold.ttf</item>
+        <item>fonts/X-Files.ttf</item>
+        <item>fonts/Xanadu.ttf</item>
+        <item>fonts/Xephyr Expanded Italic.ttf</item>
+        <item>fonts/Xephyr Expanded Shadow Italic.ttf</item>
+        <item>fonts/Xephyr Expanded.ttf</item>
+        <item>fonts/Xephyr Italic.ttf</item>
+        <item>fonts/Xephyr Leftalic.ttf</item>
+        <item>fonts/Xephyr.ttf</item>
+        <item>fonts/Xeranthemum.ttf</item>
+        <item>fonts/Xerox Malfunction (BRK).ttf</item>
+        <item>fonts/Xerox Serif Narrow Bold Italic.ttf</item>
+        <item>fonts/Xerox Serif Wide.ttf</item>
+        <item>fonts/Xipital -BRK-.ttf</item>
+        <item>fonts/Xoxoxa.ttf</item>
+        <item>fonts/XPED Shadow.ttf</item>
+        <item>fonts/Xray Ted.ttf</item>
+        <item>fonts/Xtraordinary.ttf</item>
+        <item>fonts/Xtrusion (BRK).ttf</item>
+        <item>fonts/XXon XXoff.ttf</item>
+        <item>fonts/Yahren.ttf</item>
+        <item>fonts/Yankee.ttf</item>
+        <item>fonts/Yataghan.ttf</item>
+        <item>fonts/YB Hybrid.ttf</item>
+        <item>fonts/Year 3000 Italic.ttf</item>
+        <item>fonts/Year2000Boogie.ttf</item>
+        <item>fonts/Yellow Pills.ttf</item>
+        <item>fonts/Yellowjacket Rotate.ttf</item>
+        <item>fonts/Yielding -BRK-.ttf</item>
+        <item>fonts/Yoinks.ttf</item>
+        <item>fonts/YoungStar.ttf</item>
+        <item>fonts/Your Complex I BRK.ttf</item>
+        <item>fonts/Your Complex O BRK.ttf</item>
+        <item>fonts/Yukon Tech Italic.ttf</item>
+        <item>fonts/Yukon Tech.ttf</item>
+        <item>fonts/Zachary.ttf</item>
+        <item>fonts/Zacken Normal.ttf</item>
+        <item>fonts/Zado.ttf</item>
+        <item>fonts/Zahstrology.ttf</item>
+        <item>fonts/Zamboni Joe Expanded.ttf</item>
+        <item>fonts/Zamyatin.ttf</item>
+        <item>fonts/Zany Whatever It Means.ttf</item>
+        <item>fonts/Zapped Sticks.ttf</item>
+        <item>fonts/Zebra Ztripez.ttf</item>
+        <item>fonts/Zekton Bold Italic.ttf</item>
+        <item>fonts/Zekton Bold.ttf</item>
+        <item>fonts/Zekton Dots.ttf</item>
+        <item>fonts/Zekton.ttf</item>
+        <item>fonts/Zenith (BRK).ttf</item>
+        <item>fonts/Zenith 2000.ttf</item>
+        <item>fonts/Zero Gravity Bold Italic.ttf</item>
+        <item>fonts/Zero Gravity.ttf</item>
+        <item>fonts/Zero Threes.ttf</item>
+        <item>fonts/Zillah Modern Narrow.ttf</item>
+        <item>fonts/Zillah Modern.ttf</item>
+        <item>fonts/ziperhead.ttf</item>
+        <item>fonts/Zipper blues Black.ttf</item>
+        <item>fonts/Zoloft-Bold Italic.ttf</item>
+        <item>fonts/Zoloft.ttf</item>
+        <item>fonts/Zud Juice Italic.ttf</item>
+        <item>fonts/Zud Juice.ttf</item>
+        <item>fonts/Zurich Extended BT.ttf</item>
+        <item>fonts/Zurklez Outline (BRK).ttf</item>
+        <item>fonts/Zurklez Solid (BRK).ttf</item>
+        <item>fonts/Zygoth.ttf</item>
+    </string-array>
+    <string-array name="colors">
+        <item>#000000</item>
+        <item>#ff0000</item>
+        <item>#ffea00</item>
+        <item>#d4ff00</item>
+        <item>#00ddff</item>
+        <item>#009dff</item>
+        <item>#0015ff</item>
+        <item>#ff00fb</item>
+        <item>#ffa6e4</item>
+        <item>#a4ffc2</item>
+        <item>#b1caff</item>
+        <item>#29ae65</item>
+        <item>#ae299a</item>
+        <item>#ae00ff</item>
+        <item>#ffd9ad</item>
+        <item>#256b67</item>
+        <item>#3d497b</item>
+        <item>#bdeef4</item>
+        <item>#d1b5ed</item>
+        <item>#a1768e</item>
+        <item>#735858</item>
+        <item>#1fce6b</item>
+        <item>#c9c9c9</item>
+        <item>#ffffff</item>
+    </string-array>
+</resources>

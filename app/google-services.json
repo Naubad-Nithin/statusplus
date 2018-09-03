@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "97967244170",
+    "firebase_url": "https://status-plus.firebaseio.com",
+    "project_id": "status-plus",
+    "storage_bucket": "status-plus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97967244170:android:f5175c0c13c6e39b",
+        "android_client_info": {
+          "package_name": "app.statusplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97967244170-ue94af5dkp3il07t1jv3glv8mbbnicva.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJHS9ffXZNWE4gMUQB2JkcrfopsmF1-GU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
